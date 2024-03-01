@@ -31,3 +31,4 @@ Key features include:
 ## Video Demo
 
 ## Demo Url
+https://beautymirror.azurewebsites.net/
