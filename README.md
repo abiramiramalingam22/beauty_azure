@@ -23,18 +23,11 @@ Key features include:
 - **Azure Virtual Network**: Securely connecting Azure resources and on-premises resources.
 - **AI Monitoring**: Incorporating artificial intelligence for performance monitoring and optimization.
 
-## Getting Started
 
-To set up the Beauty Mirror project locally, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone [https://github.com/yourusername/beauty-mirror.git](https://github.com/abiramiramalingam22/beauty_azure/edit/main/README.md)https://github.com/abiramiramalingam22/beauty_azure/edit/main/README.md
 
 
 
 ## ScreenShort
 ## Video Demo
 
-##Demo Url
+## Demo Url
