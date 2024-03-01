@@ -120,7 +120,7 @@ def register():
     return render_template('register.html')
 
 
-@app.route('/log',methods=["GET","POST"])
+@app.route('/login',methods=["GET","POST"])
 def log():
     if request.method == 'POST':
         memail = request.form.get('email')
