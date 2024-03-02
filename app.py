@@ -5,7 +5,7 @@ app=Flask(__name__)
 app.secret_key="123"
 
 sqlconnection =sqlite3.connect("beauty.db")
-sqlconnection.execute("create table if not exists register(username text,email text,password text,confirm text)")
+sqlconnection.execute("create table if not exists user(username text,email text,password text,confirm text)")
 sqlconnection.execute("create table if not exists contact(name text, email text,message text)")
 sqlconnection.execute("create table if not exists appointment(name text,services text,price number,date number,time number,phonenumber number)")
 sqlconnection.close()
