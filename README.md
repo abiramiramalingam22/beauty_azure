@@ -35,7 +35,7 @@ Key features include:
 
 ## ScreenShort
 
-![Screenshot 2024-03-02 141601](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/36f2cd72-bf20-4177-b771-d09d75447941)
+![hom2](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/6a2b39b2-ff3f-4866-9220-85efbc857aa9)
 
 ![Screenshot 2024-03-02 141623](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/6419c12a-953d-4bf9-a2a6-16abe2f9e41f)
 
