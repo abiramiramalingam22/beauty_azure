@@ -1,4 +1,4 @@
-# Beauty Mirror - Beauty Palor Website
+# Beauty Mirror - Beauty Parlour Website
 
 Welcome to Beauty Mirror, a beauty parlor website project aimed at providing a seamless online experience for customers to explore beauty services and make appointments conveniently. This project utilizes Flask for the backend, HTML, CSS, and JavaScript for the frontend, along with Bootstrap for responsive design. It is deployed on Azure Web App with virtual network configuration and incorporates AI monitoring for enhanced performance tracking.
 
