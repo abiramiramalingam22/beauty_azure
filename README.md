@@ -34,6 +34,17 @@ Key features include:
 
 
 ## ScreenShort
+<img width="960" alt="swetha home azure" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/63e96954-0eab-44f9-8474-f3906b67c5f6">
+
+<img width="960" alt="swetha rg" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/f9899c9c-b0c8-49cc-8856-ca8c62b132fb">
+
+<img width="960" alt="domain name swetha" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/4a7842fe-b920-460e-81d4-fdf0856ae232">
+
+<img width="960" alt="virtual network swetha" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/abc3594a-e78a-42d2-8700-0db2c167c2a1">
+
+<img width="960" alt="monitor swetha" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/0caf8abe-7286-4977-ac8f-3c6c1322b528">
+
+<img width="960" alt="Ai services swetha" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/701b9d79-dfef-414f-9638-701e63e4d320">
 
 ![hom2](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/6a2b39b2-ff3f-4866-9220-85efbc857aa9)
 
