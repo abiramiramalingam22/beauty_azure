@@ -47,6 +47,27 @@ Key features include:
 
 ![Screenshot 2024-03-02 142002](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/d2da2716-ddbf-4ec3-9024-d382e995ca2d)
 
+![s1](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/a5edf579-9da1-4346-95c5-7d27024ba5f1)
+
+![f1](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/7e6cdb10-a653-482a-abbe-dae191a34c7a)
+
+![f2](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/d78e5e66-9760-460a-9ae0-eaf1b20e9751)
+
+![h1](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/7c046c1f-4d60-438c-bddf-78e35084449a)
+
+![h2](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/0e5b70a2-b6ab-411a-86a7-1d2681283a0d)
+
+![n1](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/8deebe8d-0e58-480f-b731-7926efbebe51)
+
+![n2](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/c43f8919-c21c-483e-bcf8-b783f0d71b7a)
+
+![b1](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/b3037c59-7440-4e31-a5ed-dbb774926a60)
+
+![b2](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/a13ec2a6-4e00-47ca-9b61-c707de1897c9)
+
+![w1](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/33f91f23-88f0-436e-9374-3f66c495d93b)
+
+![w2](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/65466137-47e4-4aba-bc8f-757b905fced2)
 
 ## Video Demo
 https://www.youtube.com/watch?v=kuaV8_eVfkQ&ab_channel=R.AbiramiR.Abirami
