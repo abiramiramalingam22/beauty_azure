@@ -44,13 +44,19 @@ Key features include:
 
 <img width="960" alt="monitor swetha" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/0caf8abe-7286-4977-ac8f-3c6c1322b528">
 
+<img width="960" alt="monitor graph swetha" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/4f5a3dae-8329-4124-8e0d-a6b6e75251c1">
+
 <img width="960" alt="Ai services swetha" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/701b9d79-dfef-414f-9638-701e63e4d320">
+
+<img width="960" alt="language studio swetha" src="https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/07b723b1-ff06-4039-a3bb-9f22df6a53eb">
 
 ![hom2](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/6a2b39b2-ff3f-4866-9220-85efbc857aa9)
 
 ![Screenshot 2024-03-02 141623](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/6419c12a-953d-4bf9-a2a6-16abe2f9e41f)
 
 ![Screenshot 2024-03-02 141648](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/0e5d9ec6-9176-4446-a51d-41662d60e09e)
+
+![Screenshot 2024-03-02 155455](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/2860af97-8356-4764-b02f-a99ebba55932)
 
 ![Screenshot 2024-03-02 141722](https://github.com/abiramiramalingam22/beauty_azure/assets/154214865/bfadb349-4dac-4391-9a20-b5117912de9c)
 
